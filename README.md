@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrianina08</h1>
 <img align="right" width="400" src="https://orenschools.org/wp-content/uploads/2022/05/Hand-coding.gif"> 
+<h3 align="left">About me:</h3>
+
 - 👨‍💻 I'm extremely motivated to develop my coding skills
+  
 - 🌱 I’m currently learning **PHP, Javascript**
-- 💬 Ask me about **HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, Angular, Symfony, Express**
+  
+- 💬 Ask me about **HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, Angular, Symfony, Express JS**
 
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
